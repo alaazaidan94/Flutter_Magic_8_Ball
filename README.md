@@ -1,4 +1,4 @@
-# app_3
+# Magic 8 Ball
 
 A new Flutter project.
 
